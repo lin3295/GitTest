@@ -1,2 +1,4 @@
 # GitTest
-a test test a test a
+replace  tes   test a
+
+add line
